@@ -65,31 +65,9 @@ OR
 
 #### PR's Are Very Welcome
 
-## Deploy
-You can deploy this bot anywhere.
+#### Deploy To Heroku
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/KTearEPhumc)**</i>
-
-<details><summary>Deploy To Heroku</summary>
-<p>
-<br>
-<a href="https://github.com/AlbertEinsteinTG/af-deploy-script">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
-</p>
-</details>
-
-<details><summary>Deploy To VPS</summary>
-<p>
-<pre>
-git clone https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2
-cd Adv-Auto-Filter-Bot-V2
-pip3 install -r requirements.txt
-# Change The Vars Of bot/__init__.py File Accordingly
-python3 -m bot
-</pre>
-</p>
-</details>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/singam4alen/Filter-Bot-adv2)
 
 ## Support   
 Join Our [Telegram Group](https://www.telegram.dog/CrazyBotszGrp) For Support/Assistance And Our [Channel](https://www.telegram.dog/CrazyBotsz) For Updates.   
